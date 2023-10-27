@@ -1,0 +1,8 @@
+{
+  "comment": {
+    "type": "String"
+  },
+  "userId": {
+    "type": "String"
+  }
+}

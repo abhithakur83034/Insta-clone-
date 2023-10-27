@@ -1,0 +1,11 @@
+{
+    "userId":{
+        "type":"String"
+    },
+    "postId":{
+        "type":"String"
+    },
+    "likedBy":{
+        "type":["String"]
+    }
+}

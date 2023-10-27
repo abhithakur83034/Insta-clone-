@@ -1,0 +1,11 @@
+{
+    "userId":{
+        "type":"String"
+    },
+    "following":{
+        "type":["String"]
+    },
+    "image":{
+        "type":["String"]
+    }
+}

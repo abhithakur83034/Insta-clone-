@@ -1,0 +1,9 @@
+{
+    "title":{
+        "type":"String"
+    },
+    "image":{
+        "type":"String"
+    }
+
+}

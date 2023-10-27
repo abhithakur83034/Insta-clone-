@@ -1,0 +1,11 @@
+{
+    "title":{
+        "type":["String"]
+    },
+    "image":{
+        "type":["String"]
+    },
+    "userId":{
+        "type":"String"
+    }
+}

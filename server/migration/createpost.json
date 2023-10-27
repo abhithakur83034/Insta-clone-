@@ -1,0 +1,5 @@
+{
+  "userId": "String",
+  "image": "String",
+  "caption": "String"
+}
